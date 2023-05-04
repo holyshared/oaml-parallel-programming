@@ -1,0 +1,4 @@
+(executable
+ (public_name domains)
+ (name fib_twice)
+ (libraries domains))

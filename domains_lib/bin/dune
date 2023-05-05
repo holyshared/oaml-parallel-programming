@@ -1,0 +1,4 @@
+(executable
+ (public_name domains_lib)
+ (name main)
+ (libraries domains_lib domainslib))
